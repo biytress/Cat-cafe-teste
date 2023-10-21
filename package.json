@@ -1,0 +1,15 @@
+{
+  "name": "bot-cat-cafe",
+  "version": "1.0.0",
+  "description": "Um bot de economia feito especialmente para o nosso servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bitres",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "^8.52.0"
+  }
+}
